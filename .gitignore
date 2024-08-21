@@ -1,0 +1,4 @@
+backend_django_env/
+.idea/
+*.pyc
+__pycache__/
