@@ -2,3 +2,4 @@ backend_django_env/
 .idea/
 *.pyc
 __pycache__/
+External Libraries
